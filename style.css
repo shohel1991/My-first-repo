@@ -4,10 +4,10 @@ body{
 h1{
     color: yellow;
     font-size: 90px;
+    text-decoration: underline wavy yellow;
 }
 div{
     font-style: italic;
     font-size: 40px;
     color: orange;
-
 }
